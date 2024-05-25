@@ -1,5 +1,4 @@
 # api-node-express
 
 Este es un repositorio tendrá un API creada con NodeJS y express.
-Este es un cambio en visual studio code.
-Esto es un cambio en la rama feature1.
+En la carpeta Conceptos se encuentra la primer parte del curso, donde se explican conceptos de NodeJs.
