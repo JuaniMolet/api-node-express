@@ -30,7 +30,7 @@ async function ls(folder) {
     const fileModified = stats.mtime.toLocaleString();
 
     return `${pc.bgMagenta(fileType)} ${pc.blue(file.padEnd(20))} ${pc.green(
-      fileSize.padStart(10)
+      fileSize.padStart(10),
     )} ${pc.yellow(fileModified)}`;
   });
 

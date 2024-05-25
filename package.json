@@ -9,6 +9,7 @@
   "author": "Juan Ignacio Molet",
   "license": "ISC",
   "dependencies": {
-    "picocolors": "^1.0.1"
+    "picocolors": "^1.0.1",
+    "prettier": "^3.2.5"
   }
 }
